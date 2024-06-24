@@ -16,3 +16,9 @@ Welcome to the Sylva Compiler project! This repository contains a comprehensive 
 <p>You can also use the graphical interface by running:</p>
 <pre><code>python gui.py</code></pre>
 
+<h2>Screenshots</h2>
+<img src="https://github.com/Musabpirzada/Sylva-Compiler/blob/master/images/Picture1.png" alt="Screenshot of Sylva Compiler GUI" width="600">
+<img src="https://github.com/Musabpirzada/Sylva-Compiler/blob/master/images/Picture2.png" alt="Screenshot of Sylva Compiler GUI" width="600">
+<img src="https://github.com/Musabpirzada/Sylva-Compiler/blob/master/images/Picture3.png" alt="Screenshot of Sylva Compiler GUI" width="600">
+<img src="https://github.com/Musabpirzada/Sylva-Compiler/blob/master/images/Picture4.png" alt="Screenshot of Sylva Compiler GUI" width="600">
+<img src="https://github.com/Musabpirzada/Sylva-Compiler/blob/master/images/Picture5.png" alt="Screenshot of Sylva Compiler GUI" width="600">
