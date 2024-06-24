@@ -1,0 +1,3 @@
+pip install tabulate
+pip install tkinter
+pip install customtkinter
