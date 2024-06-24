@@ -10,6 +10,10 @@ Welcome to the Sylva Compiler project! This repository contains a comprehensive 
 <li>Graphical User Interface (GUI)</li>
 </ul>
 
+<h2 id="installation">Installation</h2>
+    <p>To get started with the Sylva Compiler, follow these steps:</p>
+    <pre><code>git clone https://github.com/yourusername/sylva-compiler.git
+pip install -r requirements.txt</code></pre>
 <h2>Usage</h2>
 <p>To run the Sylva Compiler, execute the following command:</p>
 <pre><code>python main.py</code></pre>
